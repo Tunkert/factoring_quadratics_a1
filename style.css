@@ -1,0 +1,28 @@
+.col-lg-4 {
+  min-height: 300px !important;
+}
+
+.card {
+  box-shadow: 3px 3px 4px #808080;
+  border: 1px solid #808080;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 6px #808080;
+}
+
+.row li {
+  list-style-type: lower-alpha;
+}
+
+.large-text {
+  font-size: 5rem;
+}
+
+.green {
+  color: green !important;
+}
+
+.red {
+  color: red !important;
+}
